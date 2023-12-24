@@ -1,0 +1,1 @@
+docker run -p 3306:3306 -e MYSQL_ROOT_PASSWORD=root -e DB_HOST=localhost -e DB_USER=root -e DB_PASSWORD=root bmwa_db
